@@ -15,7 +15,7 @@ export default function Search() {
         className="search__input"
         onChange={inputHandler}
         value={input}
-        placeholder="Ввод на английском языке =("
+        placeholder="Ввод на английском языке"
       />
       <Link
         to={{
